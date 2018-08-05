@@ -1,0 +1,1 @@
+# Function to execute Merge sort algorithm on input list
